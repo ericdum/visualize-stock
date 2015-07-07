@@ -1,0 +1,3 @@
+[submodule "lib/tushare"]
+	path = lib/tushare
+	url = git@github.com:ericdum/tushare.git
